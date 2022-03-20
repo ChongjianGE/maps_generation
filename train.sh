@@ -1,0 +1,1 @@
+python3 train_pix2pix.py --name map_translation --gpu_ids 0 --dataset_mode map
