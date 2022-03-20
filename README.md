@@ -33,8 +33,8 @@ python3 train_pix2pix.py --name map_translation --gpu_ids 0 --dataset_mode map
 ```
 - To see more intermediate results, check out  
 ```
-/apdcephfs/share_1290939/chongjiange/train_output/ckpt/map_translation (for checkpoints)
-/apdcephfs/share_1290939/chongjiange/train_output/runs/map_translation (for tensorboard)
+./train_output/ckpt/map_translation (for checkpoints)
+./train_output/runs/map_translation (for tensorboard)
 ```
 
 - Test the model :
